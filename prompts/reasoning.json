@@ -1,0 +1,114 @@
+[
+  {
+    "id": "reasoning-train_distance-short-none",
+    "category": "reasoning",
+    "topic": "train_distance",
+    "length": "short",
+    "keyword": "none",
+    "prompt": "If a train travels 60 miles per hour for 2.5 hours, how far does it travel?"
+  },
+  {
+    "id": "reasoning-train_distance-short-think_step",
+    "category": "reasoning",
+    "topic": "train_distance",
+    "length": "short",
+    "keyword": "think_step",
+    "prompt": "Think step by step. If a train travels 60 miles per hour for 2.5 hours, how far does it travel?"
+  },
+  {
+    "id": "reasoning-train_distance-short-expert_role",
+    "category": "reasoning",
+    "topic": "train_distance",
+    "length": "short",
+    "keyword": "expert_role",
+    "prompt": "You are an expert mathematics tutor. If a train travels 60 miles per hour for 2.5 hours, how far does it travel?"
+  },
+  {
+    "id": "reasoning-train_distance-short-concise",
+    "category": "reasoning",
+    "topic": "train_distance",
+    "length": "short",
+    "keyword": "concise",
+    "prompt": "Answer concisely in one sentence. If a train travels 60 miles per hour for 2.5 hours, how far does it travel?"
+  },
+  {
+    "id": "reasoning-train_distance-short-detailed",
+    "category": "reasoning",
+    "topic": "train_distance",
+    "length": "short",
+    "keyword": "detailed",
+    "prompt": "Explain in detail and list five strategies. If a train travels 60 miles per hour for 2.5 hours, how far does it travel?"
+  },
+  {
+    "id": "reasoning-train_distance-medium-none",
+    "category": "reasoning",
+    "topic": "train_distance",
+    "length": "medium",
+    "keyword": "none",
+    "prompt": "Background notes (for reference):\nNote 1. Pottery workshops teach students how to shape clay, glaze finished pieces, and fire them in a kiln.\nNote 2. Farmers in the valley plant wheat in the autumn and harvest it early the following summer.\nNote 3. Careful labeling of files and folders makes it much easier to find documents months later.\nNote 4. Tide tables list the expected times of high and low water and are used by sailors and fishing crews.\nNote 5. The orchestra rehearsed twice a week, and the conductor made notes after every session.\nNote 6. The textile mill employed several hundred workers and produced fabric that was shipped to markets abroad.\nNote 7. Many households keep a small notebook near the kitchen to track groceries and household repairs.\nNote 8. The city library opened a new reading room last spring, and volunteers helped to organize the donated books by subject.\nNote 9. Satellites orbiting the planet collect images that scientists use to study forests, oceans, and cities.\nNote 10. Public transport in the area includes buses, trams, and a small ferry that crosses the river every half hour.\nNote 11. Local radio stations broadcast traffic updates, weather forecasts, and community announcements every hour.\nNote 12. The mountain trail is marked with painted stones, and hikers are advised to carry water and a light jacket.\nNote 13. A reliable routine for backing up photographs includes copying them to two separate drives.\nNote 14. The committee met on Thursday to discuss the budget, the schedule, and the list of upcoming events.\nNote 15. After the festival, volunteers collected the bins, folded the tables, and swept the square before sunset.\nNote 16. Home gardeners often start seeds indoors in early spring and move the seedlings outside once the frost has passed.\nNote 17. Researchers recorded the temperature each hour for a month and stored the readings in a shared spreadsheet.\nNote 18. A balanced schedule includes time for work, rest, exercise, and meals shared with friends or family.\n\nTask: If a train travels 60 miles per hour for 2.5 hours, how far does it travel?"
+  },
+  {
+    "id": "reasoning-train_distance-long-none",
+    "category": "reasoning",
+    "topic": "train_distance",
+    "length": "long",
+    "keyword": "none",
+    "prompt": "Background notes (for reference):\nNote 1. Pottery workshops teach students how to shape clay, glaze finished pieces, and fire them in a kiln.\nNote 2. Farmers in the valley plant wheat in the autumn and harvest it early the following summer.\nNote 3. Careful labeling of files and folders makes it much easier to find documents months later.\nNote 4. Tide tables list the expected times of high and low water and are used by sailors and fishing crews.\nNote 5. The orchestra rehearsed twice a week, and the conductor made notes after every session.\nNote 6. The textile mill employed several hundred workers and produced fabric that was shipped to markets abroad.\nNote 7. Many households keep a small notebook near the kitchen to track groceries and household repairs.\nNote 8. The city library opened a new reading room last spring, and volunteers helped to organize the donated books by subject.\nNote 9. Satellites orbiting the planet collect images that scientists use to study forests, oceans, and cities.\nNote 10. Public transport in the area includes buses, trams, and a small ferry that crosses the river every half hour.\nNote 11. Local radio stations broadcast traffic updates, weather forecasts, and community announcements every hour.\nNote 12. The mountain trail is marked with painted stones, and hikers are advised to carry water and a light jacket.\nNote 13. A reliable routine for backing up photographs includes copying them to two separate drives.\nNote 14. The committee met on Thursday to discuss the budget, the schedule, and the list of upcoming events.\nNote 15. After the festival, volunteers collected the bins, folded the tables, and swept the square before sunset.\nNote 16. Home gardeners often start seeds indoors in early spring and move the seedlings outside once the frost has passed.\nNote 17. Researchers recorded the temperature each hour for a month and stored the readings in a shared spreadsheet.\nNote 18. A balanced schedule includes time for work, rest, exercise, and meals shared with friends or family.\nNote 19. The park contains a pond, two playgrounds, a walking trail, and a small garden maintained by neighbors.\nNote 20. The regional museum offers guided tours in the morning and self-guided visits throughout the afternoon.\nNote 21. A good map includes a scale, a legend, and a clear indication of which direction is north.\nNote 22. Students who review their notes soon after a lesson tend to remember the material for longer.\nNote 23. Engineers often test a design in small steps so that mistakes are found before they become expensive.\nNote 24. In many languages, the names of the days of the week come from ancient gods, planets, or celestial bodies.\nNote 25. A typical bicycle has two wheels, a frame, pedals, a chain, and a set of brakes that the rider controls by hand.\nNote 26. Weather records show that the region receives most of its rainfall between October and March.\nNote 27. The ferry company announced a revised timetable that adds two extra departures on weekends.\nNote 28. A local bakery sells bread, pastries, and seasonal fruit tarts, and it often sells out before noon.\nNote 29. The museum keeps a collection of old maps that show how the coastline has changed over several centuries.\nNote 30. The old bridge was repaired in stages, and each stage was inspected before traffic was allowed to resume.\nNote 31. A local bakery sells bread, pastries, and seasonal fruit tarts, and it often sells out before noon.\nNote 32. Careful labeling of files and folders makes it much easier to find documents months later.\nNote 33. The mountain trail is marked with painted stones, and hikers are advised to carry water and a light jacket.\nNote 34. Weather records show that the region receives most of its rainfall between October and March.\nNote 35. Many households keep a small notebook near the kitchen to track groceries and household repairs.\nNote 36. Pottery workshops teach students how to shape clay, glaze finished pieces, and fire them in a kiln.\nNote 37. The regional museum offers guided tours in the morning and self-guided visits throughout the afternoon.\nNote 38. Satellites orbiting the planet collect images that scientists use to study forests, oceans, and cities.\nNote 39. After the festival, volunteers collected the bins, folded the tables, and swept the square before sunset.\nNote 40. Home gardeners often start seeds indoors in early spring and move the seedlings outside once the frost has passed.\nNote 41. The museum keeps a collection of old maps that show how the coastline has changed over several centuries.\nNote 42. Local radio stations broadcast traffic updates, weather forecasts, and community announcements every hour.\nNote 43. A good map includes a scale, a legend, and a clear indication of which direction is north.\nNote 44. Researchers recorded the temperature each hour for a month and stored the readings in a shared spreadsheet.\n\nTask: If a train travels 60 miles per hour for 2.5 hours, how far does it travel?"
+  },
+  {
+    "id": "reasoning-apples-short-none",
+    "category": "reasoning",
+    "topic": "apples",
+    "length": "short",
+    "keyword": "none",
+    "prompt": "Sarah has 12 apples and gives 3 to John. John then gives 2 apples to Mark. How many apples does John have?"
+  },
+  {
+    "id": "reasoning-apples-short-think_step",
+    "category": "reasoning",
+    "topic": "apples",
+    "length": "short",
+    "keyword": "think_step",
+    "prompt": "Think step by step. Sarah has 12 apples and gives 3 to John. John then gives 2 apples to Mark. How many apples does John have?"
+  },
+  {
+    "id": "reasoning-apples-short-expert_role",
+    "category": "reasoning",
+    "topic": "apples",
+    "length": "short",
+    "keyword": "expert_role",
+    "prompt": "You are an expert mathematics tutor. Sarah has 12 apples and gives 3 to John. John then gives 2 apples to Mark. How many apples does John have?"
+  },
+  {
+    "id": "reasoning-apples-short-concise",
+    "category": "reasoning",
+    "topic": "apples",
+    "length": "short",
+    "keyword": "concise",
+    "prompt": "Answer concisely in one sentence. Sarah has 12 apples and gives 3 to John. John then gives 2 apples to Mark. How many apples does John have?"
+  },
+  {
+    "id": "reasoning-apples-short-detailed",
+    "category": "reasoning",
+    "topic": "apples",
+    "length": "short",
+    "keyword": "detailed",
+    "prompt": "Explain in detail and list five strategies. Sarah has 12 apples and gives 3 to John. John then gives 2 apples to Mark. How many apples does John have?"
+  },
+  {
+    "id": "reasoning-apples-medium-none",
+    "category": "reasoning",
+    "topic": "apples",
+    "length": "medium",
+    "keyword": "none",
+    "prompt": "Background notes (for reference):\nNote 1. Pottery workshops teach students how to shape clay, glaze finished pieces, and fire them in a kiln.\nNote 2. Farmers in the valley plant wheat in the autumn and harvest it early the following summer.\nNote 3. Careful labeling of files and folders makes it much easier to find documents months later.\nNote 4. Tide tables list the expected times of high and low water and are used by sailors and fishing crews.\nNote 5. The orchestra rehearsed twice a week, and the conductor made notes after every session.\nNote 6. The textile mill employed several hundred workers and produced fabric that was shipped to markets abroad.\nNote 7. Many households keep a small notebook near the kitchen to track groceries and household repairs.\nNote 8. The city library opened a new reading room last spring, and volunteers helped to organize the donated books by subject.\nNote 9. Satellites orbiting the planet collect images that scientists use to study forests, oceans, and cities.\nNote 10. Public transport in the area includes buses, trams, and a small ferry that crosses the river every half hour.\nNote 11. Local radio stations broadcast traffic updates, weather forecasts, and community announcements every hour.\nNote 12. The mountain trail is marked with painted stones, and hikers are advised to carry water and a light jacket.\nNote 13. A reliable routine for backing up photographs includes copying them to two separate drives.\nNote 14. The committee met on Thursday to discuss the budget, the schedule, and the list of upcoming events.\nNote 15. After the festival, volunteers collected the bins, folded the tables, and swept the square before sunset.\nNote 16. Home gardeners often start seeds indoors in early spring and move the seedlings outside once the frost has passed.\nNote 17. Researchers recorded the temperature each hour for a month and stored the readings in a shared spreadsheet.\nNote 18. A balanced schedule includes time for work, rest, exercise, and meals shared with friends or family.\n\nTask: Sarah has 12 apples and gives 3 to John. John then gives 2 apples to Mark. How many apples does John have?"
+  },
+  {
+    "id": "reasoning-apples-long-none",
+    "category": "reasoning",
+    "topic": "apples",
+    "length": "long",
+    "keyword": "none",
+    "prompt": "Background notes (for reference):\nNote 1. Pottery workshops teach students how to shape clay, glaze finished pieces, and fire them in a kiln.\nNote 2. Farmers in the valley plant wheat in the autumn and harvest it early the following summer.\nNote 3. Careful labeling of files and folders makes it much easier to find documents months later.\nNote 4. Tide tables list the expected times of high and low water and are used by sailors and fishing crews.\nNote 5. The orchestra rehearsed twice a week, and the conductor made notes after every session.\nNote 6. The textile mill employed several hundred workers and produced fabric that was shipped to markets abroad.\nNote 7. Many households keep a small notebook near the kitchen to track groceries and household repairs.\nNote 8. The city library opened a new reading room last spring, and volunteers helped to organize the donated books by subject.\nNote 9. Satellites orbiting the planet collect images that scientists use to study forests, oceans, and cities.\nNote 10. Public transport in the area includes buses, trams, and a small ferry that crosses the river every half hour.\nNote 11. Local radio stations broadcast traffic updates, weather forecasts, and community announcements every hour.\nNote 12. The mountain trail is marked with painted stones, and hikers are advised to carry water and a light jacket.\nNote 13. A reliable routine for backing up photographs includes copying them to two separate drives.\nNote 14. The committee met on Thursday to discuss the budget, the schedule, and the list of upcoming events.\nNote 15. After the festival, volunteers collected the bins, folded the tables, and swept the square before sunset.\nNote 16. Home gardeners often start seeds indoors in early spring and move the seedlings outside once the frost has passed.\nNote 17. Researchers recorded the temperature each hour for a month and stored the readings in a shared spreadsheet.\nNote 18. A balanced schedule includes time for work, rest, exercise, and meals shared with friends or family.\nNote 19. The park contains a pond, two playgrounds, a walking trail, and a small garden maintained by neighbors.\nNote 20. The regional museum offers guided tours in the morning and self-guided visits throughout the afternoon.\nNote 21. A good map includes a scale, a legend, and a clear indication of which direction is north.\nNote 22. Students who review their notes soon after a lesson tend to remember the material for longer.\nNote 23. Engineers often test a design in small steps so that mistakes are found before they become expensive.\nNote 24. In many languages, the names of the days of the week come from ancient gods, planets, or celestial bodies.\nNote 25. A typical bicycle has two wheels, a frame, pedals, a chain, and a set of brakes that the rider controls by hand.\nNote 26. Weather records show that the region receives most of its rainfall between October and March.\nNote 27. The ferry company announced a revised timetable that adds two extra departures on weekends.\nNote 28. A local bakery sells bread, pastries, and seasonal fruit tarts, and it often sells out before noon.\nNote 29. The museum keeps a collection of old maps that show how the coastline has changed over several centuries.\nNote 30. The old bridge was repaired in stages, and each stage was inspected before traffic was allowed to resume.\nNote 31. A local bakery sells bread, pastries, and seasonal fruit tarts, and it often sells out before noon.\nNote 32. Careful labeling of files and folders makes it much easier to find documents months later.\nNote 33. The mountain trail is marked with painted stones, and hikers are advised to carry water and a light jacket.\nNote 34. Weather records show that the region receives most of its rainfall between October and March.\nNote 35. Many households keep a small notebook near the kitchen to track groceries and household repairs.\nNote 36. Pottery workshops teach students how to shape clay, glaze finished pieces, and fire them in a kiln.\nNote 37. The regional museum offers guided tours in the morning and self-guided visits throughout the afternoon.\nNote 38. Satellites orbiting the planet collect images that scientists use to study forests, oceans, and cities.\nNote 39. After the festival, volunteers collected the bins, folded the tables, and swept the square before sunset.\nNote 40. Home gardeners often start seeds indoors in early spring and move the seedlings outside once the frost has passed.\nNote 41. The museum keeps a collection of old maps that show how the coastline has changed over several centuries.\nNote 42. Local radio stations broadcast traffic updates, weather forecasts, and community announcements every hour.\nNote 43. A good map includes a scale, a legend, and a clear indication of which direction is north.\nNote 44. Researchers recorded the temperature each hour for a month and stored the readings in a shared spreadsheet.\n\nTask: Sarah has 12 apples and gives 3 to John. John then gives 2 apples to Mark. How many apples does John have?"
+  }
+]

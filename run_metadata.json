@@ -1,0 +1,21 @@
+{
+  "started": "2026-11-16T14:13:58",
+  "platform": "macOS-15.8.3-x86_64-i386-64bit",
+  "machine": "x86_64",
+  "python": "3.11.9",
+  "threads": 4,
+  "n_ctx": 2048,
+  "temperature": 0.2,
+  "max_tokens": 128,
+  "trials": 3,
+  "seed": 1234,
+  "models": [
+    "models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf",
+    "models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+    "models/Phi-3-mini-4k-instruct-Q4_K_M.gguf"
+  ],
+  "llama_cpp_python": "0.3.37",
+  "cpu": "Intel(R) Core(TM) i5-8257U CPU @ 1.40GHz",
+  "mem_bytes": "8589934592",
+  "macos": "15.8.3"
+}

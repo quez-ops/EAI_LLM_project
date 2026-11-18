@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+huggingface_hub[cli]
+# llama-cpp-python is installed separately with CMAKE_ARGS (see README)
